@@ -36,7 +36,7 @@
     - La estructura de la conexión a la base de datos es la siguiente:
     `postgresql://username:password@host:port/database`
 
-3. Ejecuta el siguiente comando para guardas los productos del inventario csv en la base de datos:
+3. Ejecuta el siguiente comando para guardar los productos del inventario csv en la base de datos:
 
     ```
     py .\src\__init__.py
