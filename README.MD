@@ -16,7 +16,7 @@
     venv/bin/activate ---> macOs / linux
     ```
 
-3. Instalar los requirimientos
+3. Instalar los requerimientos
 
     ```
     pip3 install -r requirements.txt
