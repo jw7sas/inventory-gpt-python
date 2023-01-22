@@ -1,4 +1,4 @@
-## Proyecto de básico de inventarios generado con ChatGPT
+## Proyecto básico de inventarios generado con ChatGPT
 
 **_Instalación ambiente local por terminal_**
 
