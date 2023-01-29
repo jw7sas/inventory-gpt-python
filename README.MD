@@ -23,7 +23,7 @@
     ```
 
 
-**_Ejecución de scripts**
+**_Ejecución de scripts_**
 
 1. Ejecuta el siguiente comando para crear un csv con datos falsos de un inventario:
 
